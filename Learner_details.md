@@ -8,9 +8,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Your Full Name] |
-| **Student / ID Number** | [Your Student ID] |
-| **Date** | [DD Month YYYY] |
+| **Student Name** | Gopolang Matjiane |
+| **Student / ID Number** | 0403215686086 |
+| **Date** | 21/03/2004 |
 | **Assessor** | [Assessor's Name] |
 | **Assessor Date** | [DD Month YYYY] |
 | **Assessor Signature** | [To be completed by assessor] |

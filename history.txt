@@ -1,0 +1,75 @@
+  1  history
+    2  cd c/
+    3  cd /c
+    4  ls
+    5  cd users
+    6  ls
+    7  cd gee
+    8  ls
+    9  documents
+   10  cd documents
+   11  ls
+   12  ssh-keygen -t ed25519 -C "geematjiane@icloud.com"
+   13  ssh-keygen -t ed25519 -C "geematjiane@icloud.com"
+   14  cat ~/.ssh/id_25519.pub
+   15  cat ~/.ssh/id_ed25519.pub
+   16  cat ~/.ssh/id_ed25519.pub
+   17  ssh -T git@github.com
+   18  git --help
+   19  git help -a
+   20  git clone
+   21  git clone git@github:londeka-z/student_sub_system
+   22  git clone git@github:londeka-z/syudent_sub_system.com
+   23  git --help
+   24  git help tutorial
+   25  git clone git:londeka-z/student_sub_system@github.com
+   26  git clone londeka-z/student_sub_system
+   27  git help tutorial
+   28  clear
+   29  history
+   30  clear
+   31  git clone github.com:londeka-z/student_sub_system
+   32  git clone github.com:geesheesh/student_sub_system
+   33  cat ~/.ssh/id_ed25519.pub
+   34  history
+   35  ssh -T git@github.com
+   36  clear
+   37  git clone git@github.com:londeka-z/student_sub_system.git
+   38  git pull
+   39  git remote -v
+   40  git remote -v
+   41  git config --global user.name
+   42  git config global user.email
+   43  git config --global user.email
+   44  git remote -v
+   45  git init
+   46  git remote -v
+   47  git init
+   48  git status
+   49  git remote remove origin
+   50  clear
+   51  history
+   52  git clone git@github.com:londeka-z/student_sub_system.git
+   53  git pull
+   54  git remote add origin git@github.com:geesheesh/proper-practice
+   55  git remote -v
+   56  git push -u origin main
+   57  git fetch
+   58  git clone git@github.com:londeka-z/student_sub_system
+   59  git pull
+   60  git pull proper-practice main
+   61  git pull git@github.com:geesheesh/proper-practice.git main
+   62  git push -u origin main
+   63  git remote remove origin
+   64  git remote add origin git@github.com:geesheesh/proper-practice.git
+   65  git push -u origin main
+   66  ls
+   67  cd student_sub_sytem
+   68  cd student_sub_system
+   69  code .
+   70  touch index.html about.html history.txt
+   71  git status
+   72  git add .
+   73  git status
+   74  git commit -m"Create two html files with respetive title of about & index plus a text file named history"
+   75  history

@@ -1,4 +1,5 @@
-  1  history
+My history Trial
+ 1  history
     2  cd c/
     3  cd /c
     4  ls
